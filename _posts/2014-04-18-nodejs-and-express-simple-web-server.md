@@ -7,8 +7,8 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: 
-share: 
+comments: true
+share: true
 ---
 In this post let's see how we can create a simple web server delivering static content with Node.js and and Express. 
 
